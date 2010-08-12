@@ -1,0 +1,6 @@
+{
+  "run_list": ["recipe[solo]"],
+  "dir": "/Users/twilson63/labs/chef-cookbooks",
+  "owner": "twilson63",
+  "group": "staff"
+}

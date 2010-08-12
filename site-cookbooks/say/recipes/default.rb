@@ -1,4 +1,5 @@
 bash "say hello" do
-  cwd "~/"
-  code "say hello chef"
+  code "say #{node[:talk]}"
 end
+
+
